@@ -1,0 +1,6 @@
+c:\users\volha_shyrko\documents\visual studio 2012\Projects\TypeFundamentals2\TypeFundamentals2\bin\Debug\TypeFundamentals2.exe.config
+c:\users\volha_shyrko\documents\visual studio 2012\Projects\TypeFundamentals2\TypeFundamentals2\bin\Debug\TypeFundamentals2.exe
+c:\users\volha_shyrko\documents\visual studio 2012\Projects\TypeFundamentals2\TypeFundamentals2\bin\Debug\TypeFundamentals2.pdb
+c:\users\volha_shyrko\documents\visual studio 2012\Projects\TypeFundamentals2\TypeFundamentals2\obj\Debug\TypeFundamentals2.csprojResolveAssemblyReference.cache
+c:\users\volha_shyrko\documents\visual studio 2012\Projects\TypeFundamentals2\TypeFundamentals2\obj\Debug\TypeFundamentals2.exe
+c:\users\volha_shyrko\documents\visual studio 2012\Projects\TypeFundamentals2\TypeFundamentals2\obj\Debug\TypeFundamentals2.pdb
